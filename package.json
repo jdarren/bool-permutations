@@ -1,0 +1,24 @@
+{
+  "name": "nf-bool-permutations",
+  "version": "1.0.0",
+  "description": "Create config objects representing all permutations of a set of boolean keys",
+  "main": "index.js",
+  "dependencies": {
+    "js-combinatorics": "^0.5.0",
+    "lodash": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetflixUI/nf-bool-permutations.git"
+  },
+  "author": "J. Darren James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NetflixUI/nf-bool-permutations/issues"
+  },
+  "homepage": "https://github.com/NetflixUI/nf-bool-permutations#readme"
+}
