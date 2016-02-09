@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetflixUI/nf-bool-permutations.git"
+    "url": "https://github.com/jdarren/bool-permutations.git"
   },
   "author": "J. Darren James",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NetflixUI/nf-bool-permutations/issues"
+    "url": "https://github.com/jdarren/bool-permutations/issues"
   },
-  "homepage": "https://github.com/NetflixUI/nf-bool-permutations#readme"
+  "homepage": "https://github.com/jdarren/bool-permutations#readme"
 }
