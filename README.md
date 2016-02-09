@@ -30,6 +30,6 @@ console.log( boolPermutations.getLabel({secure: true, rtl: true},  'css') );   /
 
 ## License
 
-Copyright (c) 2016 Netflix
+Copyright (c) 2016
 
 Licensed under the MIT license.
