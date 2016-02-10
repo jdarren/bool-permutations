@@ -1,12 +1,12 @@
-# nf-bool-permutations
+# bool-permutations
 
 ## Getting Started
 
-Install the module with: 'npm install nf-bool-permutations'
+Install the module with: 'npm install bool-permutations'
 
 ## Usage
 ```javascript
-var boolPermutations = require('nf-bool-permutations');
+var boolPermutations = require('bool-permutations');
 var configMaps       = boolPermutations.build([ 'secure', 'rtl' ]);
 console.log(configMaps);
 ```
@@ -22,7 +22,7 @@ console.log(configMaps);
 
 ## Building a label
  ```javascript
-var boolPermutations = require('nf-bool-permutations');
+var boolPermutations = require('bool-permutations');
 console.log( boolPermutations.getLabel({secure: true, rtl: false}, 'css') );   // ->  'css-secure'
 console.log( boolPermutations.getLabel({secure: false rtl: true},  'css') );   // ->  'css-rtl'
 console.log( boolPermutations.getLabel({secure: true, rtl: true},  'css') );   // ->  'css-secure-rtl'

@@ -1,5 +1,5 @@
 {
-  "name": "nf-bool-permutations",
+  "name": "bool-permutations",
   "version": "1.0.1",
   "description": "Create config objects representing all permutations of a set of boolean keys",
   "main": "index.js",
