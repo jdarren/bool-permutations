@@ -1,6 +1,6 @@
 {
   "name": "bool-permutations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create config objects representing all permutations of a set of boolean keys",
   "main": "index.js",
   "dependencies": {
